@@ -1,0 +1,90 @@
+Data types sources 
+• Data (https://www.geeksforgeeks.org/data-visualization-and-its-importance/ ) 
+• Structured vs Unstructured (https://www.geeksforgeeks.org/difference-between
+structured-semi-structured-and-unstructured-data/ ) 
+• Special type of data 1. Temporal 
+2. Geographic 
+3. Doc,Img,video,audio,3D  
+4. Raw data 
+• Qualitative(categorical) V/s Quantitative(Numerical) 
+• Quantitative 1. Discrete 2. Continuous  
+• 4 levels of data measurement (https://careerfoundry.com/en/blog/data-analytics/data
+levels-of 
+measurement/#:~:text=There%20are%20four%20types%20of,adds%20another%20le
+ vel%20of%20precision. ) 
+1.Nominal 
+2. Ordinal 
+3. Interval  
+4. Ratio 
+• NOIR Stanley Stevens 
+• Data Sources 1. Files  
+2. Database 
+3. Internet 
+4. Open data 
+• Crawlers or spiders ○ Scraping data from semi-structured sources  
+■ Parse HTML 
+■ Match Patterns to extract data 
+■ Identify links (repeat) 
+•   URL ○ Files and databases on the web ○ Many libraries and apps will accept either a local 
+path or url 
+06 Data Visualisation 
+Communication 
+Communication : Analyzing and Presenting  
+Graphic Communication: Sender, medium , message, receiver  
+Graphic Communication: Stages of Understanding 
+• Sensing → your brain seeing colours and shapes 
+• Perceiving → what does it show? big, small, bright, red,  
+• Interpreting → what does it mean? increasing, smaller, good, bad 
+• Comprehending → what does it mean to me? relevance, consequences 
+Graphic Communication Goals 
+• Information 
+• Persuasion 
+• Education 
+• Entertainment 
+Graphic communication, particularly through data visualization and management, aims to 
+present complex information effectively by leveraging these core goals: 
+1. Information 
+• Purpose: Deliver clear, accurate, and concise data to the audience. 
+• Use in Visualization: Charts, graphs, and dashboards help reveal trends, 
+relationships, and comparisons at a glance. 
+• Example: Real-time sales dashboards for tracking key performance indicators (KPIs). 
+2. Persuasion 
+• Purpose: Influence decisions or opinions using data-backed arguments. 
+• Use in Visualization: Infographics and comparative visuals emphasize critical points 
+to support a message. 
+• Example: A graph showing environmental benefits of renewable energy over fossil 
+fuels to advocate for policy changes. 
+3. Education 
+• Purpose: Enhance understanding of concepts or processes through accessible, 
+structured content. 
+• Use in Visualization: Interactive tools, flowcharts, and annotated diagrams simplify 
+learning. 
+• Example: Tutorials using step-by-step flowcharts for process improvement in 
+business. 
+4. Entertainment 
+• Purpose: Engage audiences with visually appealing and fun representations of data. 
+• Use in Visualization: Creative visuals, animations, or gamified charts make data 
+more relatable. 
+• Example: Interactive maps showing world populations in an engaging, user-driven 
+way. 
+Data visualization combines these goals to make information intuitive, actionable, and 
+meaningful, driving better management and decision-making. 
+Data Visualisation: Good Things to Know 
+• Why visualise data? To explore and analyse  ,  To communicate 
+• Good things to know  
+• Pie charts  
+Only for parts of a whole (ie, 100% divided into categories) • No more than 5 slices • Label carefully 
+and clockwise, decreasing in size • Minimise user effort and never 3D effect 
+• 3D  
+• Area  
+• Axes 
+• Clutter  
+• Good Visualisation? 
+Data visualization II 
+Chart types (https://www.atlassian.com/data/charts/essential-chart-types-for-data
+visualization ) 
+Categorical: comparing categories and distributions of quantitative values 
+Hierarchical: Charting part-to-whole relationships and hierarchies 
+Relational: Graphing relationships to explore correlations and connections 
+Temporal: Showing trends and activities over time 
+Spatial: Mapping spatial patterns through overlays and distortions 
